@@ -8,13 +8,13 @@
 
 ■現状の問題
 
-・かつての未踏の採択結果ページはHTMLであり、Googleなどでの検索にヒットしやすかった。
-　例：http://web.archive.org/web/20130123150011/https://www.ipa.go.jp/NBP/14nendo/14youth/mdata/2-1.htm
+- かつての未踏の採択結果ページはHTMLであり、Googleなどでの検索にヒットしやすかった。
+  例：http://web.archive.org/web/20130123150011/https://www.ipa.go.jp/NBP/14nendo/14youth/mdata/2-1.htm
 
-・これらのページは2013年11月と2015年2月の間のどこかの時点で削除された。
+- これらのページは2013年11月と2015年2月の間のどこかの時点で削除された。
 
-・現状では「チーフクリエイターのみの氏名とPDF」となり再利用性・検索性がとても悪い。
-　例： http://www.ipa.go.jp/jinzai/esp/mitoipedia/seika/year/2002yseika.html
+- 現状では「チーフクリエイターのみの氏名とPDF」となり再利用性・検索性がとても悪い。
+  例： http://www.ipa.go.jp/jinzai/esp/mitoipedia/seika/year/2002yseika.html
 
 ■作りたいもの・それによって起きてほしいこと
 
