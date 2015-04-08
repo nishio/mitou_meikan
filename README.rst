@@ -41,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1SR4iWXc8aubc_QdkGrpbKfGCnjWm28LIX-WR-bF3
 
 - twipro.csv: TwiProをスクレイピングして得た、プロフィールに「未踏」を入れているアカウントの一覧から、目視で未踏事業ではない意味で「未踏」が使われているものを除外したリストです。
 - twitter_name_unknown.txt: 本名との対応付けができていないツイッターアカウントのリストです。
-- twitter_name.csv: 本名とTwitter IDとの対応付けです。未完です。
+- twitter_id_name_profile.csv: 本名とTwitter IDと2015-04-08時点のプロフィールの対応付けです。
 
 
 ユニークキー
