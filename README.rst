@@ -21,6 +21,20 @@
 未踏関係者全員の情報をCSV形式などの再利用性の高い形でまとめる。それによって応用が容易になる。
 
 
+プロシン発表者のリスト
+======================
+
+プロシンの発表者の中には未踏関係者も多いので、過去のプロシンの発表者リストを作ってみました。
+元データは「第25回,第27回 ～ 第44回(天海記録) 」とそれ以降のプログラム。
+http://www.ipsj.or.jp/prosym/prosyncontents.html
+
+発表者と発表タイトルの対応がこちら https://github.com/nishio/mitou_meikan/blob/master/prosym_title.csv
+
+発表者とプロシン時点での所属の対応がこちら https://github.com/nishio/mitou_meikan/blob/master/prosym_affiliation.csv
+
+所属と名前の対応付が特定できなかった発表をこちらにおいています。 https://github.com/nishio/mitou_meikan/blob/master/prosym_unknown.txt
+
+
 未踏関係者Twitterリスト
 =======================
 
