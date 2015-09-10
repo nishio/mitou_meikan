@@ -32,8 +32,6 @@ http://www.ipsj.or.jp/prosym/prosyncontents.html
 
 発表者とプロシン時点での所属の対応がこちら https://github.com/nishio/mitou_meikan/blob/master/prosym_affiliation.csv
 
-所属と名前の対応付が特定できなかった発表をこちらにおいています。 https://github.com/nishio/mitou_meikan/blob/master/prosym_unknown.txt
-
 
 未踏関係者Twitterリスト
 =======================
