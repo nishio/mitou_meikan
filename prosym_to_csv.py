@@ -11,8 +11,8 @@ def to_utf8(*xs):
 
 title = ''
 for line in fi:
+    print line.strip()
     if line.startswith('!'):
-        print line.strip()
         continue
     if line.startswith('##'):
         items = line.strip().split()
@@ -25,6 +25,7 @@ for line in fi:
         #print items
         _tag, title = items
     elif title:
+        assert re.match('([^,()]+) \(([^()]*)\)(, ([^,()]+) \(([^()]*)\))*$', line)
         items = re.findall('([^,()]+) \(([^()]*)\)', line)
         for item in items:
             name, affil = item
