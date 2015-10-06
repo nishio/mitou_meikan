@@ -1,25 +1,105 @@
-情報収集
+今後の情報収集プラン
 
 ■情報科学若手の会
 http://wakate.org/4
 
 ■セキュリティキャンプ
-2009年
-http://www.security-camp.org/archives/project/camp/2009/camp2009report/index.html
-実行委員、講師、スタッフは公開情報
-参加者はおそらく学生が多いこともあって非公開。各人に自主的に情報提供をしていただくしかない。
-チューターの情報も公開ダメなのかな？？
+https://www.ipa.go.jp/jinzai/camp/
 
-2008年
-http://www.security-camp.org/archives/project/camp/2008/camp2008report/index.html
-2007年
-http://www.security-camp.org/archives/project/camp/2007/camp2007report/camp2007.html
-2006年
-http://www.security-camp.org/archives/project/camp/2006/camp2006report/camp2006.html
-2005年
-http://www.security-camp.org/archives/project/camp/2005/camp2005report/camp2005.html
+実行委員、講師は公開情報
+参加者はおそらく学生が多いこともあって非公開。各人に自主的に情報提供をしていただくしかない。
+チューターの情報も以下のサイトでは公開されていない。
+
 2004年
 http://www.security-camp.org/archives/project/camp/2004/camp2004.html
+2005年
+http://www.security-camp.org/archives/project/camp/2005/camp2005report/camp2005.html
+2006年
+http://www.security-camp.org/archives/project/camp/2006/camp2006report/camp2006.html
+2007年
+http://www.security-camp.org/archives/project/camp/2007/camp2007report/camp2007.html
+
+2008年
+IPAの以下のページ1からのリンク先2がリンク切れ、3を使う
+1: https://www.ipa.go.jp/jinzai/camp/2008/index.html
+2: http://www.jipdec.or.jp/archives/project/camp/2008/camp2008report/index.html
+3: http://www.security-camp.org/archives/project/camp/2008/camp2008report/index.html
+
+2009年
+IPAの以下のページ1からのリンク先2がリンク切れ、3を使う
+1: https://www.ipa.go.jp/jinzai/camp/2009/index.html
+2: http://www.jipdec.or.jp/archives/project/camp/
+3: http://www.security-camp.org/archives/project/camp/2009/camp2009report/index.html
+
+
+2010年
+http://www.ipa.go.jp/jinzai/renkei/spcamp2010/instructor/index.html
+2011年
+https://www.ipa.go.jp/jinzai/renkei/spcamp2011/instructor/index.html
+2012年
+http://www.ipa.go.jp/jinzai/renkei/camp2012/instructor/index.html
+
+2013年
+https://www.ipa.go.jp/jinzai/camp/2013/index.html
+講師の情報はこちら
+http://www.ipa.go.jp/jinzai/renkei/camp2013/index.html
+
+2014年
+https://www.ipa.go.jp/jinzai/camp/2014/zenkoku2014_te.html
+2015年
+https://www.ipa.go.jp/jinzai/camp/2015/zenkoku2015_te.html
+
+■ESPer
+http://mitou.myht.org/
+
+2006年
+http://mitou.myht.org/modules/eguide/event.php?eid=26
+プログラムがリンク切れ
+ニュース - 【ESPer2006】未踏ソフトウェア創造事業のOB/現役“超能力者”プログラマが大集合：ITpro
+http://itpro.nikkeibp.co.jp/article/NEWS/20060522/238575/
+
+2006年秋の陣
+http://mitou.myht.org/modules/eguide/event.php?eid=30
+2007年
+http://mitou.myht.org/modules/eguide/event.php?eid=40
+2008年
+http://mitou.myht.org/modules/eguide/event.php?eid=44
+2009年
+http://mitou.myht.org/modules/eguide/event.php?eid=45
+
+2010年
+http://mitou.myht.org/modules/eguide/event.php?eid=46
+ATNDがある
+https://atnd.org/events/9543
+
+■IPAX
+公式の一覧がどこだかわからない
+
+2004年
+http://www.ipa.go.jp/security/event/2004/ipax-autumn/index.html
+リンク切れ http://www.ipa.go.jp/event/ipax/autumn2004/index.html
+
+2005年
+詳細不明
+http://www.ipa.go.jp/jinzai/esp/2004mito_private/IPAX2005.html
+
+2006年
+https://www.jitec.ipa.go.jp/1_00topic/topic_20060419_ipax2006.html
+「当日の資料はこちらをご覧ください。→ イベント報告（IPAX2006 ）」がリンク切れ
+http://www.ipa.go.jp/about/news/event/ipax2006/lecture.html
+こちらは詳細情報なし：
+http://www.ipa.go.jp/jinzai/esp/2005mito_private/IPAX2006.html
+
+2007年
+詳細不明
+
+2008年
+講演者・出展者の情報有り
+http://www.ipa.go.jp/event/ipax2008/index.html
+
+2009年
+講演者・出展者の情報有り
+http://www.ipa.go.jp/event/ipax2009/index.html
 
 ■未踏塾プロジェクト
 https://sites.google.com/site/esperjuku/
@@ -27,3 +107,5 @@ https://sites.google.com/site/esperjuku/
 ■高専カンファレンス
 http://kosenconf.jp/
 
+■たれこみ窓口
+未踏関係者のニュースリリースとかインタビュー記事とかイベントとかを気軽にたれこめる窓口を用意すべき
