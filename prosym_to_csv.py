@@ -2,23 +2,35 @@
 import re
 import codecs
 import csv
-fi = codecs.open('prosym_formatted.txt', 'r', 'utf-8')
-writer = csv.writer(file('prosym_title.csv', 'w'))
-writer2 = csv.writer(file('prosym_affiliation.csv', 'w'))
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('-i', '--input-file', action='store', )
+parser.add_argument('--event-suffix', action='store', default='')
+args = parser.parse_args()
+
+title_file = args.input_file.replace('.txt', '_title.csv')
+affiliation_file = args.input_file.replace('.txt', '_affiliation.csv')
+fi = codecs.open(args.input_file, 'r', 'utf-8')
+writer = csv.writer(file(title_file, 'w'))
+writer2 = csv.writer(file(affiliation_file, 'w'))
 
 def to_utf8(*xs):
     return [x.encode('utf-8') for x in xs]
 
 title = ''
-for line in fi:
-    print line.strip()
+for lineno, line in enumerate(fi):
+    print lineno, line.strip()
     if line.startswith('!'):
         continue
     if line.startswith('##'):
         items = line.strip().split()
         #print items
-        _tag, event, start, _tag, _end = items
-        event = event + u'プログラミングシンポジウム'
+        try:
+            _tag, event, start, _tag, _end = items
+        except:
+            _tag, event, start = items
+        event = event + args.event_suffix
     elif line.startswith('#'):
         items = line.strip().split(' ', 1)
         #print line
